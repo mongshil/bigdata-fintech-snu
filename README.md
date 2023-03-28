@@ -1,1 +1,2 @@
-# Toy_project
+# bigdata-fintech-snu
+list of studies
